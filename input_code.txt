@@ -1,0 +1,3 @@
+# This is a comment
+if x < 10:
+    print("Hello, World!")
